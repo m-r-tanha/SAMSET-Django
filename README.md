@@ -4,15 +4,13 @@ This project is in first step, but it will be appeared as webpage
    <h3> at first we need a Username and Password:
       <h4> python manage.py createsuperuser
          <h4> the we shoud create this page in admin.py
-            '''from django.db import models
-
-
-# Create your models here.
-class WebInput( models.Model ):
-    JobDescription = models.TextField()
-    JobTitle = models.CharField( max_length=255 )
-    URL = models.CharField(max_length = 255)
-    '''
+            <h4>```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 
 
 
