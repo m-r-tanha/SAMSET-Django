@@ -1,6 +1,6 @@
 # SAMSET-Django
 This project is in first step, but it will be appeared as webpage
-<h2> Issue and solution when I am geveloping this Django site up
+<h2> Issue and solution when I am developing this Django site up
    <p>
     <h3> issue 1: 
        <h4> when I want to import models to insert data in data base (from models import *) this erros appear:
