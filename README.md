@@ -4,12 +4,9 @@ This project is in first step, but it will be appeared as webpage
    <h4>Access to the admin part of the site by address : (http://127.0.0.1:8009/admin/)
    <h4> at first we need a Username and Password:
       <h4> python manage.py createsuperuser
-         <h4> the we shoud create this page in admin.py
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+         <h4> the we shoud create this page in admin.py with adding the below commands
+<h5>from .models import WebInput
+<h5>admin.site.register(WebInput)
 
 
 
