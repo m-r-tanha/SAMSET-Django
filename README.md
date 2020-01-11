@@ -1,10 +1,12 @@
 # SAMSET-Django
 This project is in first step, but it will be appeared as webpage
-<h2> Access to the admin part of the site by address : (http://127.0.0.1:8009/admin/)
+<h2> admin
+   <h4>Access to the admin part of the site by address : (http://127.0.0.1:8009/admin/)
    <h3> at first we need a Username and Password:
       <h4> python manage.py createsuperuser
          <h4> the we shoud create this page in admin.py
-            <h4>```javascript
+            <h4>```
+               javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
