@@ -5,9 +5,7 @@ This project is in first step, but it will be appeared as webpage
    <h4> at first we need a Username and Password:
       <h4> python manage.py createsuperuser
          <h4> the we shoud create this page in admin.py with adding the below commands
-<h5>from .models import WebInput
-<h5>admin.site.register(WebInput)
-
+![Image of Yaktocat](https://github.com/m-r-tanha/SAMSET-Django/blob/master/admin.png)
 
 
 <h2> Issue and solution when I am developing this Django site up
