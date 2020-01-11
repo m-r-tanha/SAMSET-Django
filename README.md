@@ -18,4 +18,6 @@ This project is in first step, but it will be appeared as webpage
      <h4> solution: 
         <h5>(Django) C:\ProgramData\Anaconda3\envs\Django\Scripts\samset>set DJANGO_SETTINGS_MODULE=samset.settings
         <h5>(Django) C:\ProgramData\Anaconda3\envs\Django\Scripts\samset>set DJANGO_SETTINGS_MODULE=settings
+           <h5> As a matter of fact, the above commands didn't help me, and I found I should run the (from models import *) in django shell
+              	:pensive:    " python manage.py shell"
      </p>
