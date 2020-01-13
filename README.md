@@ -1,13 +1,15 @@
 # SAMSET-Django
-This project is in first step, but it will be appeared as webpage
-<h2> admin
-   <h4>Access to the admin part of the site by address : (http://127.0.0.1:8009/admin/)
-   <h4> at first we need a Username and Password:
-      <h4> python manage.py createsuperuser
-         <h4> the we shoud create this page in admin.py with adding the below commands
-               <h3> at first we need a Username and Password:
-      <h4> python manage.py createsuperuser
-         <h4> the we shoud create this page in admin.py	
+<p> <h3> This is a startup project and I am going to run a Webscraping-NLP system to help someone who looks for a job. I have very innovative plans and I will use to the Data Science technologies in this project.
+This project is in the first step, but finally, it will be appeared as a website, on this page I try to share and mention my challenges and my finding solution to cope with.
+
+   <h6>Access to the admin part of the site by address : (http://127.0.0.1:8009/admin/)
+  - at first we need a Username and Password:
+      <h6> python manage.py createsuperuser
+         <h6> the we shoud create this page in admin.py with adding the below commands
+               <h5> at first we need a Username and Password:
+      <h6> python manage.py createsuperuser
+         <h6> the we shoud create this page in admin.py	
+            </p>
 ![Image of Yaktocat](https://github.com/m-r-tanha/SAMSET-Django/blob/master/admin.png)
 
 
