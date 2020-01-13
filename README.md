@@ -1,6 +1,6 @@
 # SAMSET-Django
-<p> <h3> This is a startup project and I am going to run a Webscraping-NLP system to help someone who looks for a job. I have very innovative plans and I will use to the Data Science technologies in this project.
-This project is in the first step, but finally, it will be appeared as a website, on this page I try to share and mention my challenges and my finding solution to cope with.
+<p> <h3> This is a startup project and I am going to run a Webscraping-NLP system to help someone who looks for a job. I have some Data Science innovative plans and I will use then in this project.
+This project is in infancy part, but at the end, it will be appeared as a website, on this page I try to share and mention my challenges/solution/experience to up a site.
 <h4>
 <h2> Issue and solution when I am developing this Django site up
 <h4> 
