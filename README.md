@@ -12,11 +12,11 @@ This project is in infancy part, but at the end, it will be appeared as a websit
 
 ![Image of Yaktocat](https://github.com/m-r-tanha/SAMSET-Django/blob/master/admin.png)
   
-- When I want to import models to insert data in data base (from models import *) this erros appear:
+- When I want to import models to insert data to the data base (from models import *) this erros appear:
     django.core.exceptions.ImproperlyConfigured: Requested setting INSTALLED_APPS, but settings are not configured. You must either define the environment variable DJANGO_SETTINGS_MODULE or call settings.configure() before accessing settings.
   - solution: 
         set DJANGO_SETTINGS_MODULE=samset.settings
         set DJANGO_SETTINGS_MODULE=settings
-  - As a matter of fact, the above commands didn't help me, and I found I should run the (from models import *) in django shell
+  - As a matter of fact, the above commands didn't help me, and I found, I should run the (from models import *) in django shell
               	:pensive:    " python manage.py shell"
 
