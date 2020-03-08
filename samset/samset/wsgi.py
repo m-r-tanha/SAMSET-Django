@@ -11,6 +11,11 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'samset.settings')
+#os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'samset.settings') 
+#I have change it when I want to run from model importt *
 
 application = get_wsgi_application()
+
+import os
+
+os.environ['DJANGO_SETTINGS_MODULE'] = 'samset.settings'
