@@ -57,3 +57,4 @@ This project is in infancy part, but at the end, it will be appeared as a websit
       
    - A session is a mechanism to store information on the server side during the interaction with the web application.
    - An exception is an abnormal event that leads to program failure. To deal with this situation, Django uses its exception classes and supports all core Python exceptions as well. 
+   - WSGI file: With this file we can host the Apache tools
