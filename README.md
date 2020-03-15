@@ -20,3 +20,9 @@ This project is in infancy part, but at the end, it will be appeared as a websit
   - As a matter of fact, the above commands didn't help me, and I found, I should run the (from models import *) in django shell
               	:pensive:    " python manage.py shell"
 
+## Most  Important Information about Django
+
+ - open source web application framework.
+ - Django follows Model-View-Template (MVT) architectural pattern.
+ - Model: It is the data access layer. It contains everything about the data.
+ - View: It is the business logic layer. This layer contains the logic that accesses the model and defers to the appropriate template.
