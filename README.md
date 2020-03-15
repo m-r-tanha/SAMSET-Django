@@ -29,3 +29,13 @@ This project is in infancy part, but at the end, it will be appeared as a websit
  - Urls uses a regular expression to capture URL patterns for processing.
  - When a visitor lands on Django page, first Django checks the URLs pattern you have created and used the information to retrieve the view. After that view processes the request, querying your database if necessary, and passes the requested information to a template. After that, the template renders the data in a layout you have created and displayed the page.
  - Django is a high-level Python's web framework which was designed for rapid development and clean, realistic design.
+ - Features available in Django web framework are:
+
+      - Admin Interface (CRUD)
+      - Templating
+      - Form handling
+      - Internationalization
+      - A Session, user management, role-based permissions
+      - Object-relational mapping (ORM)
+      - Testing Framework
+      - Fantastic Documentation
