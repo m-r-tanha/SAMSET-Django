@@ -43,7 +43,7 @@ This project is in infancy part, but at the end, it will be appeared as a websit
       - Abstract base classes: This style is used when you only want parent's class to hold information that you don't want to type out for each child model.
       - Multi-table Inheritance: This style is used if you are sub-classing an existing model and need each model to have its database table.
       - Proxy models: This style is used, if you only want to modify the Python level behavior of the model, without changing the model's fields.
-   - Django is not a CMS. Instead, it is a Web framework and a programming tool that makes you able to build websites.
+   - Django is not a CMS (Content Management System). Instead, it is a Web framework and a programming tool that makes you able to build websites.
    - There are three main things required to set up static files in Django:
       - Set STATIC_ROOT in settings.py
       - run manage.py collect static
@@ -55,5 +55,5 @@ This project is in infancy part, but at the end, it will be appeared as a websit
       - Cross-site request forgery protection
       - Content Gzipping
       
-    - A session is a mechanism to store information on the server side during the interaction with the web application.
-    - An exception is an abnormal event that leads to program failure. To deal with this situation, Django uses its exception classes and supports all core Python exceptions as well. 
+   - A session is a mechanism to store information on the server side during the interaction with the web application.
+   - An exception is an abnormal event that leads to program failure. To deal with this situation, Django uses its exception classes and supports all core Python exceptions as well. 
