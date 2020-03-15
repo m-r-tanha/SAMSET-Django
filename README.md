@@ -47,4 +47,11 @@ This project is in infancy part, but at the end, it will be appeared as a websit
    - There are three main things required to set up static files in Django:
       - Set STATIC_ROOT in settings.py
       - run manage.py collect static
-      - set up a Static Files entry on the PythonAnywhere web tab
+      - set up a Static Files entry on the web tab
+   - Some usage of middlewares in Django is:
+      - Session management,
+      - Use authentication
+      - Cross-site request forgery protection
+      - Content Gzipping
+    - A session is a mechanism to store information on the server side during the interaction with the web application.
+    - An exception is an abnormal event that leads to program failure. To deal with this situation, Django uses its exception classes and supports all core Python exceptions as well. 
