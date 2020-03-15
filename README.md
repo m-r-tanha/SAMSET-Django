@@ -39,3 +39,12 @@ This project is in infancy part, but at the end, it will be appeared as a websit
       - Object-relational mapping (ORM)
       - Testing Framework
       - Fantastic Documentation
+  - There are three possible inheritance styles in Django:
+      - Abstract base classes: This style is used when you only want parent's class to hold information that you don't want to type out for each child model.
+      - Multi-table Inheritance: This style is used if you are sub-classing an existing model and need each model to have its database table.
+      - Proxy models: This style is used, if you only want to modify the Python level behavior of the model, without changing the model's fields.
+   - Django is not a CMS. Instead, it is a Web framework and a programming tool that makes you able to build websites.
+   - There are three main things required to set up static files in Django:
+      - Set STATIC_ROOT in settings.py
+      - run manage.py collect static
+      - set up a Static Files entry on the PythonAnywhere web tab
